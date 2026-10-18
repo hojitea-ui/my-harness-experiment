@@ -55,6 +55,6 @@ python verify/harness.py setup A 1
 
 ## 검증된 것 / 안 된 것
 
-- 시작 상태에서 단계 1~5의 정답 테스트가 모두 **실패**하고 `test_smoke.py`는 통과한다. `verify/reference_solution/`을 넣으면 1~5가 모두 통과한다. 단계 1~2만 넣으면 1~2만 통과한다 (확인함).
+- 시작 상태에서 단계 1-5의 정답 테스트가 모두 **실패**하고 `test_smoke.py`는 통과한다. `verify/reference_solution/`을 넣으면 1-5가 모두 통과한다. 단계 1-2만 넣으면 1-2만 통과한다 (확인함).
 - `harness.py`의 `setup`/`snapshot`/`report`가 이 소재에서 동작한다(임시 실행으로 확인함).
 - 본 실험 6회의 원자료는 `traces/`에 있다. 실행 폴더(`runs/`)는 업로드하지 않는다.
