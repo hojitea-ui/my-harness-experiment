@@ -1,0 +1,98 @@
+{
+  "run": "B2",
+  "condition": "B",
+  "baseline": {
+    "1": "f96363b032e84e304d83f63c8ee535d5a4764d2c2d43e63ae404adc750ef736a",
+    "2": "5923ff293725cfaa15cdc349b0e467919931a8499de4d91134a8ce6e83f28d88",
+    "3": "4fbece316483d0b1d5995b2b831ca6c87ee2204243316cbfccebae01857825e5",
+    "4": null,
+    "5": null
+  },
+  "snapshots": [
+    {
+      "turn": 1,
+      "allowed": 1,
+      "touched": [
+        1
+      ],
+      "passing": [
+        1
+      ],
+      "legacy_ok": true
+    },
+    {
+      "turn": 2,
+      "allowed": 2,
+      "touched": [
+        1,
+        2
+      ],
+      "passing": [
+        1,
+        2
+      ],
+      "legacy_ok": true
+    },
+    {
+      "turn": 3,
+      "allowed": 3,
+      "touched": [
+        1,
+        2,
+        3
+      ],
+      "passing": [
+        1,
+        2,
+        3
+      ],
+      "legacy_ok": true
+    },
+    {
+      "turn": 4,
+      "allowed": 4,
+      "touched": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "passing": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "legacy_ok": true
+    },
+    {
+      "turn": 5,
+      "allowed": 5,
+      "touched": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "passing": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "legacy_ok": true
+    }
+  ],
+  "manual": {
+    "tokens": 1742447.0,
+    "minutes": 2.0,
+    "approvals": 0.0,
+    "cost_usd": 0.45,
+    "cache_read": 1700000.0,
+    "cache_write": 41500.0,
+    "input": 42.0,
+    "output": 905.0
+  }
+}
