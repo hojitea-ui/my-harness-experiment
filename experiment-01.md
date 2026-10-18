@@ -110,7 +110,7 @@
 - 미검증 사항
   - 이 글은 "CLAUDE.md에 두면 규칙을 더 잘 지킨다"를 **주장하지 않는다.** 시험한 결과도 없다. 위 문장들은 동작 설명과 설계 철학이다.
   - 글은 context rot를 "Studies on needle-in-a-haystack style benchmarking have uncovered the concept of context rot"라고 소개하고 Chroma의 연구 페이지(research.trychroma.com/context-rot)로 링크한다. 글 자체에는 수치가 없고, 링크된 페이지는 열어 확인하지 않았다. 그래서 이 보고서는 context rot의 정량 주장을 근거로 쓰지 않는다.
-  - 사실상 홍보를 겸하는 글이라 "파일에 두라"는 방향의 서술은 **할인해서 읽는다.**
+  - 이 글은 Anthropic이 자사 제품(Claude Code)의 설계를 설명하는 글이라 홍보 성격이 섞일 수 있다. 동작 설명은 참고하되, 독립적인 효과 검증(비교 실험)으로는 읽지 않는다.
 
 ### 3.4 근거가 H1에 주는 것과 주지 못하는 것 (종합)
 
